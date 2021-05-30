@@ -1,4 +1,4 @@
 ### Hey there! 👋
 
 
-I'm Joel, Software Engineer + Photographer from Nashville, TN
+I'm Joel, a Software Engineer + Photographer from Nashville, TN
