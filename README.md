@@ -1,4 +1,4 @@
 ### Oh, hey! 👋
 
 
-I'm Joel, a Software Engineer + Photographer based out of Nashville, TN.
+I'm Joel, a Software Engineer based out of Nashville, TN.
